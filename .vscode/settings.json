@@ -1,8 +1,11 @@
 {
     "cSpell.words": [
+        "authlib",
         "creds",
         "gpsoauth",
-        "nicegui"
+        "itsdangerous",
+        "nicegui",
+        "pyproject"
     ],
     "python-envs.defaultEnvManager": "ms-python.python:system"
 }

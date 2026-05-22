@@ -16,3 +16,7 @@ client_secret.json
 
 # Environment variables
 .env
+
+#Lock files
+poetry.lock
+uv.lock
