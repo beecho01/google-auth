@@ -30,7 +30,7 @@ A NiceGUI-based web application for Google OAuth2 authentication and master toke
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/google-auth.git
+   git clone https://github.com/beecho01/google-auth.git
    cd google-auth
    ```
 
