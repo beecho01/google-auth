@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "creds",
+        "gpsoauth",
+        "nicegui"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
